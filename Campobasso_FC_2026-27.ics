@@ -11,11 +11,11 @@ X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:campobasso-2026-27-g1@calendario-rossoblu
 DTSTAMP:20260827T120951Z
-SUMMARY:🔴🔵 Campobasso FC – Pianese
+SUMMARY:🔴🔵 Campobasso FC – Pianese 2-0
 DTSTART;TZID=Europe/Rome:20260823T180000
 DTEND;TZID=Europe/Rome:20260823T200000
 LOCATION:Campobasso
-DESCRIPTION:Serie C Girone B 2026/27 – 1ª giornata. Data e orario ufficializzati. Risultato: Campobasso FC 2–0 Pianese.
+DESCRIPTION:Serie C Girone B 2026/27 – 1ª giornata. Data e orario ufficializzati.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -415,6 +415,17 @@ DTSTART;TZID=Europe/Rome:20260901T210000
 DTEND;TZID=Europe/Rome:20260901T230000
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
 DESCRIPTION:Coppa Italia Serie C Regionale Trenitalia 2026/27 – Secondo Turno Eliminatorio. Gara unica.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:campobasso-2026-27-coppa-cavese@calendario-rossoblu
+DTSTAMP:20260827T130000Z
+SUMMARY:🔴🔵 Campobasso FC – Cavese 2-0
+DTSTART;TZID=Europe/Rome:20260815T210000
+DTEND;TZID=Europe/Rome:20260815T230000
+LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Coppa Italia Serie C 2026/27.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
