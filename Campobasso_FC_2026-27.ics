@@ -49,14 +49,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:campobasso-2026-27-g3@calendario-rossoblu
-LAST-MODIFIED:20260904T061647Z
-SEQUENCE:1
+LAST-MODIFIED:20260907T063720Z
+SEQUENCE:2
 DTSTAMP:20260827T120951Z
-SUMMARY:🔴🔵 Campobasso FC – Gubbio
+SUMMARY:🔴🔵 Campobasso FC – Gubbio 2-4
 DTSTART;TZID=Europe/Rome:20260905T180000
 DTEND;TZID=Europe/Rome:20260905T200000
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
-DESCRIPTION:Serie C Girone B 2026/27 – 3ª giornata. Data e orario ufficializzati.
+DESCRIPTION:Serie C Girone B 2026/27 – 3ª giornata. Data e orario ufficializzati. Risultato: Campobasso FC 2–4 Gubbio.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
