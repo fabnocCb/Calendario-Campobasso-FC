@@ -62,14 +62,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:campobasso-2026-27-g4@calendario-rossoblu
-LAST-MODIFIED:20260904T061647Z
-SEQUENCE:1
+LAST-MODIFIED:20260913T071734Z
+SEQUENCE:2
 DTSTAMP:20260827T120951Z
-SUMMARY:🔴🔵 Vado – Campobasso FC
+SUMMARY:🔴🔵 Vado – Campobasso FC 0-1
 DTSTART;TZID=Europe/Rome:20260912T150000
 DTEND;TZID=Europe/Rome:20260912T170000
-LOCATION:Stadio Ferruccio Chittolina\, Vado Ligure
-DESCRIPTION:Serie C Girone B 2026/27 – 4ª giornata. Data e orario ufficializzati.
+LOCATION:Stadio Giuseppe Sivori\, Sestri Levante
+DESCRIPTION:Serie C Girone B 2026/27 – 4ª giornata. Data e orario ufficializzati. Risultato: Vado 0–1 Campobasso FC.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
