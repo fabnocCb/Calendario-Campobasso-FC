@@ -528,4 +528,17 @@ DESCRIPTION:Coppa Italia Serie C Regionale Trenitalia 2026/27 – Secondo Turno 
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:campobasso-2026-27-coppa-ottavi-latina@calendario-rossoblu
+LAST-MODIFIED:20260913T092414Z
+SEQUENCE:0
+DTSTAMP:20260913T092414Z
+SUMMARY:🔴🔵 Campobasso FC – Latina\n🏟️ Antonio Molinari Avicor Stadium
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Coppa Italia Serie C Regionale Trenitalia 2026/27 – Ottavi di finale. Data di calendario\; orario da definire e soggetto a variazioni.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
