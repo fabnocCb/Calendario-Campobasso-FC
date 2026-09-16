@@ -1,0 +1,66 @@
+name: Aggiorna calendario Campobasso
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: campobasso-calendar-pages
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Test protezioni
+        run: python -m unittest discover -s tests -v
+      - name: Aggiorna da Lega Pro
+        run: python scripts/update_calendar.py
+      - name: Valida feed
+        run: python scripts/update_calendar.py --validate-only
+      - name: Commit solo in presenza di modifiche
+        run: |
+          git add -- Campobasso_FC_2026-27.ics data/state.json
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'Aggiorna calendario da fonte ufficiale Lega Pro'
+            git push origin HEAD:main
+          fi
+      - name: Prepara il feed per Pages
+        run: |
+          mkdir -p _site
+          cp Campobasso_FC_2026-27.ics _site/
+          touch _site/.nojekyll
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Pubblica mantenendo lo stesso URL
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Conserva le fonti per diagnosi
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fonti-ufficiali-${{ github.run_id }}
+          path: artifacts/
+          retention-days: 7
+          if-no-files-found: ignore
