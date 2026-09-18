@@ -3,606 +3,541 @@ VERSION:2.0
 PRODID:-//Calendario Rossoblu//Campobasso FC 2026-27//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Calendario Campobasso FC - Serie C Girone B 2026/27
 X-WR-CALNAME:Campobasso FC 2026/27
+X-WR-CALDESC:Calendario Campobasso FC - Serie C Girone B 2026/27
+X-WR-TIMEZONE:Europe/Rome
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
-X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
+UID:campobasso-2026-27-coppa-cavese@calendario-rossoblu
+LAST-MODIFIED:20260904T061647Z
+SEQUENCE:1
+DTSTAMP:20260902T202217Z
 SUMMARY:🔴🔵 Campobasso FC – Cavese 2-0
 DTSTART;TZID=Europe/Rome:20260815T210000
 DTEND;TZID=Europe/Rome:20260815T230000
-DTSTAMP:20260902T202217Z
-UID:campobasso-2026-27-coppa-cavese@calendario-rossoblu
-SEQUENCE:1
-DESCRIPTION:Coppa Italia Serie C 2026/27 – Primo turno eliminatorio. Ris
- ultato: Campobasso FC 2–0 Cavese.
-LAST-MODIFIED:20260904T061647Z
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Coppa Italia Serie C 2026/27 – Primo turno eliminatorio. Risultato: Campobasso FC 2–0 Cavese.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:campobasso-2026-27-g1@calendario-rossoblu
+LAST-MODIFIED:20260904T061647Z
+SEQUENCE:2
+DTSTAMP:20260827T120951Z
 SUMMARY:🔴🔵 Campobasso FC – Pianese 2-0
 DTSTART;TZID=Europe/Rome:20260823T180000
 DTEND;TZID=Europe/Rome:20260823T200000
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g1@calendario-rossoblu
-SEQUENCE:2
-DESCRIPTION:Serie C Girone B 2026/27 – 1ª giornata. Data e orario uffic
- ializzati. Risultato: Campobasso FC 2–0 Pianese.
-LAST-MODIFIED:20260904T061647Z
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Serie C Girone B 2026/27 – 1ª giornata. Data e orario ufficializzati. Risultato: Campobasso FC 2–0 Pianese.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:campobasso-2026-27-g2@calendario-rossoblu
+LAST-MODIFIED:20260904T061647Z
+SEQUENCE:3
+DTSTAMP:20260827T120951Z
 SUMMARY:🔴🔵 Spezia – Campobasso FC 1-0
 DTSTART;TZID=Europe/Rome:20260829T210000
 DTEND;TZID=Europe/Rome:20260829T230000
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g2@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 2ª giornata. Data e orario uffic
- ializzati.
-LAST-MODIFIED:20260904T061647Z
 LOCATION:Stadio Alberto Picco\, La Spezia
+DESCRIPTION:Serie C Girone B 2026/27 – 2ª giornata. Data e orario ufficializzati.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:campobasso-2026-27-g3@calendario-rossoblu
+LAST-MODIFIED:20260907T063720Z
+SEQUENCE:2
+DTSTAMP:20260827T120951Z
 SUMMARY:🔴🔵 Campobasso FC – Gubbio 2-4
 DTSTART;TZID=Europe/Rome:20260905T180000
 DTEND;TZID=Europe/Rome:20260905T200000
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g3@calendario-rossoblu
-SEQUENCE:2
-DESCRIPTION:Serie C Girone B 2026/27 – 3ª giornata. Data e orario uffic
- ializzati. Risultato: Campobasso FC 2–4 Gubbio.
-LAST-MODIFIED:20260907T063720Z
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Serie C Girone B 2026/27 – 3ª giornata. Data e orario ufficializzati. Risultato: Campobasso FC 2–4 Gubbio.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:campobasso-2026-27-g4@calendario-rossoblu
+LAST-MODIFIED:20260913T071734Z
+SEQUENCE:2
+DTSTAMP:20260827T120951Z
 SUMMARY:🔴🔵 Vado – Campobasso FC 0-1
 DTSTART;TZID=Europe/Rome:20260912T150000
 DTEND;TZID=Europe/Rome:20260912T170000
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g4@calendario-rossoblu
-SEQUENCE:2
-DESCRIPTION:Serie C Girone B 2026/27 – 4ª giornata. Data e orario uffic
- ializzati. Risultato: Vado 0–1 Campobasso FC.
-LAST-MODIFIED:20260913T071734Z
 LOCATION:Stadio Giuseppe Sivori\, Sestri Levante
+DESCRIPTION:Serie C Girone B 2026/27 – 4ª giornata. Data e orario ufficializzati. Risultato: Vado 0–1 Campobasso FC.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:campobasso-2026-27-g5@calendario-rossoblu
+LAST-MODIFIED:20260916T214601Z
+SEQUENCE:2
+DTSTAMP:20260827T120951Z
 SUMMARY:🔴🔵 Grosseto – Campobasso FC 2-2
 DTSTART;TZID=Europe/Rome:20260916T183000
 DTEND;TZID=Europe/Rome:20260916T203000
-DTSTAMP:20260916T200320Z
-UID:campobasso-2026-27-g5@calendario-rossoblu
-SEQUENCE:2
-DESCRIPTION:Serie C Girone B 2026/27 – 5ª giornata. Data e orario uffic
- ializzati. Risultato: Grosseto 2–2 Campobasso FC. Fonte: https://www.ser
- iec.com/calendario
-LAST-MODIFIED:20260916T200320Z
 LOCATION:Stadio Carlo Zecchini\, Grosseto
+DESCRIPTION:Serie C Girone B 2026/27 – 5ª giornata. Data e orario ufficializzati. Risultato finale: 2-2.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:campobasso-2026-27-g6@calendario-rossoblu
+LAST-MODIFIED:20260904T061647Z
+SEQUENCE:1
+DTSTAMP:20260827T120951Z
 SUMMARY:🔴🔵 Campobasso FC – Pineto
 DTSTART;TZID=Europe/Rome:20260920T173000
 DTEND;TZID=Europe/Rome:20260920T193000
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g6@calendario-rossoblu
-SEQUENCE:1
-DESCRIPTION:Serie C Girone B 2026/27 – 6ª giornata. Data e orario uffic
- ializzati.
-LAST-MODIFIED:20260904T061647Z
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Serie C Girone B 2026/27 – 6ª giornata. Data e orario ufficializzati.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:campobasso-2026-27-g7@calendario-rossoblu
+LAST-MODIFIED:20260904T061647Z
+SEQUENCE:1
+DTSTAMP:20260827T120951Z
 SUMMARY:🔴🔵 Sambenedettese – Campobasso FC
 DTSTART;TZID=Europe/Rome:20260926T203000
 DTEND;TZID=Europe/Rome:20260926T223000
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g7@calendario-rossoblu
-SEQUENCE:1
-DESCRIPTION:Serie C Girone B 2026/27 – 7ª giornata. Data e orario uffic
- ializzati.
-LAST-MODIFIED:20260904T061647Z
 LOCATION:Stadio Riviera delle Palme\, San Benedetto del Tronto
+DESCRIPTION:Serie C Girone B 2026/27 – 7ª giornata. Data e orario ufficializzati.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:campobasso-2026-27-g8@calendario-rossoblu
+LAST-MODIFIED:20260904T061647Z
+SEQUENCE:1
+DTSTAMP:20260827T120951Z
 SUMMARY:🔴🔵 Campobasso FC – Torres
 DTSTART;TZID=Europe/Rome:20261004T143000
 DTEND;TZID=Europe/Rome:20261004T163000
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g8@calendario-rossoblu
-SEQUENCE:1
-DESCRIPTION:Serie C Girone B 2026/27 – 8ª giornata. Data e orario uffic
- ializzati.
-LAST-MODIFIED:20260904T061647Z
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Serie C Girone B 2026/27 – 8ª giornata. Data e orario ufficializzati.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Ravenna – Campobasso FC\n🏟️ Bruno Benelli
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-DTSTAMP:20260827T120951Z
 UID:campobasso-2026-27-g9@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 9ª giornata. Data di calendario\
- ; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
+LAST-MODIFIED:20260918T182018Z
+SEQUENCE:4
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Ravenna – Campobasso FC
+DTSTART;TZID=Europe/Rome:20261011T143000
+DTEND;TZID=Europe/Rome:20261011T163000
 LOCATION:Stadio Bruno Benelli\, Ravenna
+DESCRIPTION:Serie C Girone B 2026/27 – 9ª giornata. Data e orario ufficializzati.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Perugia\n🏟️ Antonio Molinari Avico
- r Stadium
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-DTSTAMP:20260827T120951Z
 UID:campobasso-2026-27-g10@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 10ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
+LAST-MODIFIED:20260918T182018Z
+SEQUENCE:4
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Campobasso FC – Perugia
+DTSTART;TZID=Europe/Rome:20261018T123000
+DTEND;TZID=Europe/Rome:20261018T143000
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Serie C Girone B 2026/27 – 10ª giornata. Data e orario ufficializzati.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Atalanta U23 – Campobasso FC\n🏟️ Comunale di Carav
- aggio
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20260827T120951Z
 UID:campobasso-2026-27-g11@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 11ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
+LAST-MODIFIED:20260918T182018Z
+SEQUENCE:4
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Atalanta U23 – Campobasso FC
+DTSTART;TZID=Europe/Rome:20261024T143000
+DTEND;TZID=Europe/Rome:20261024T163000
 LOCATION:Stadio Comunale\, Caravaggio
+DESCRIPTION:Serie C Girone B 2026/27 – 11ª giornata. Data e orario ufficializzati.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Forlì\n🏟️ Antonio Molinari Avicor
-  Stadium
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-DTSTAMP:20260827T120951Z
 UID:campobasso-2026-27-g12@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 12ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
+LAST-MODIFIED:20260918T182018Z
+SEQUENCE:4
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Campobasso FC – Forlì
+DTSTART;TZID=Europe/Rome:20261101T173000
+DTEND;TZID=Europe/Rome:20261101T193000
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Serie C Girone B 2026/27 – 12ª giornata. Data e orario ufficializzati.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Livorno\n🏟️ Antonio Molinari Avico
- r Stadium
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-DTSTAMP:20260827T120951Z
 UID:campobasso-2026-27-g13@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 13ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
+LAST-MODIFIED:20260918T182018Z
+SEQUENCE:4
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Campobasso FC – Livorno
+DTSTART;TZID=Europe/Rome:20261108T143000
+DTEND;TZID=Europe/Rome:20261108T163000
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Serie C Girone B 2026/27 – 13ª giornata. Data e orario ufficializzati.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Latina – Campobasso FC\n🏟️ Domenico Francioni
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-DTSTAMP:20260827T120951Z
 UID:campobasso-2026-27-g14@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 14ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
+LAST-MODIFIED:20260918T182018Z
+SEQUENCE:4
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Latina – Campobasso FC
+DTSTART;TZID=Europe/Rome:20261113T203000
+DTEND;TZID=Europe/Rome:20261113T223000
 LOCATION:Stadio Domenico Francioni\, Latina
+DESCRIPTION:Serie C Girone B 2026/27 – 14ª giornata. Data e orario ufficializzati.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Vis Pesaro\n🏟️ Antonio Molinari Av
- icor Stadium
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-DTSTAMP:20260827T120951Z
 UID:campobasso-2026-27-g15@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 15ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
+LAST-MODIFIED:20260918T182018Z
+SEQUENCE:4
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Campobasso FC – Vis Pesaro
+DTSTART;TZID=Europe/Rome:20261121T173000
+DTEND;TZID=Europe/Rome:20261121T193000
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Serie C Girone B 2026/27 – 15ª giornata. Data e orario ufficializzati.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Guidonia Montecelio – Campobasso FC\n🏟️ Città del
- l'Aria
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-DTSTAMP:20260827T120951Z
 UID:campobasso-2026-27-g16@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 16ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
+LAST-MODIFIED:20260918T182018Z
+SEQUENCE:4
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Guidonia Montecelio – Campobasso FC
+DTSTART;TZID=Europe/Rome:20261128T143000
+DTEND;TZID=Europe/Rome:20261128T163000
 LOCATION:Stadio Città dell'Aria\, Guidonia Montecelio
+DESCRIPTION:Serie C Girone B 2026/27 – 16ª giornata. Data e orario ufficializzati.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Pescara\n🏟️ Antonio Molinari Avico
- r Stadium
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-DTSTAMP:20260827T120951Z
 UID:campobasso-2026-27-g17@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 17ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
+LAST-MODIFIED:20260918T182018Z
+SEQUENCE:4
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Campobasso FC – Pescara
+DTSTART;TZID=Europe/Rome:20261205T143000
+DTEND;TZID=Europe/Rome:20261205T163000
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Serie C Girone B 2026/27 – 17ª giornata. Data e orario ufficializzati.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Ostiamare – Campobasso FC\n🏟️ Pasquale Giannattasi
- o
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-DTSTAMP:20260827T120951Z
 UID:campobasso-2026-27-g18@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 18ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
+LAST-MODIFIED:20260918T182018Z
+SEQUENCE:4
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Ostiamare – Campobasso FC
+DTSTART;TZID=Europe/Rome:20261212T173000
+DTEND;TZID=Europe/Rome:20261212T193000
 LOCATION:Stadio Pasquale Giannattasio\, Ostia
+DESCRIPTION:Serie C Girone B 2026/27 – 18ª giornata. Data e orario ufficializzati.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Reggiana\n🏟️ Antonio Molinari Avic
- or Stadium
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-DTSTAMP:20260827T120951Z
 UID:campobasso-2026-27-g19@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 19ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
-LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🔴🔵 Pianese – Campobasso FC\n🏟️ Comunale di Piancastag
- naio
-DTSTART;VALUE=DATE:20270103
-DTEND;VALUE=DATE:20270104
+LAST-MODIFIED:20260918T182018Z
+SEQUENCE:4
 DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g20@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 20ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
-LOCATION:Stadio Comunale\, Piancastagnaio
+SUMMARY:🔴🔵 Campobasso FC – Reggiana
+DTSTART;TZID=Europe/Rome:20261219T173000
+DTEND;TZID=Europe/Rome:20261219T193000
+LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Serie C Girone B 2026/27 – 19ª giornata. Data e orario ufficializzati.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Spezia\n🏟️ Antonio Molinari Avicor
-  Stadium
+UID:campobasso-2026-27-g20@calendario-rossoblu
+LAST-MODIFIED:20260918T182018Z
+SEQUENCE:4
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Pianese – Campobasso FC
+DTSTART;TZID=Europe/Rome:20270102T143000
+DTEND;TZID=Europe/Rome:20270102T163000
+LOCATION:Stadio Comunale\, Piancastagnaio
+DESCRIPTION:Serie C Girone B 2026/27 – 20ª giornata. Data e orario ufficializzati.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:campobasso-2026-27-g21@calendario-rossoblu
+LAST-MODIFIED:20260904T064941Z
+SEQUENCE:3
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Campobasso FC – Spezia\n🏟️ Antonio Molinari Avicor Stadium
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g21@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 21ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Serie C Girone B 2026/27 – 21ª giornata. Data di calendario\; orario da definire e soggetto ad anticipi/posticipi.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:campobasso-2026-27-g22@calendario-rossoblu
+LAST-MODIFIED:20260904T064941Z
+SEQUENCE:3
+DTSTAMP:20260827T120951Z
 SUMMARY:🔴🔵 Gubbio – Campobasso FC\n🏟️ Pietro Barbetti
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g22@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 22ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
 LOCATION:Stadio Pietro Barbetti\, Gubbio
+DESCRIPTION:Serie C Girone B 2026/27 – 22ª giornata. Data di calendario\; orario da definire e soggetto ad anticipi/posticipi.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Vado\n🏟️ Antonio Molinari Avicor S
- tadium
+UID:campobasso-2026-27-g23@calendario-rossoblu
+LAST-MODIFIED:20260904T064941Z
+SEQUENCE:3
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Campobasso FC – Vado\n🏟️ Antonio Molinari Avicor Stadium
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g23@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 23ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Serie C Girone B 2026/27 – 23ª giornata. Data di calendario\; orario da definire e soggetto ad anticipi/posticipi.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Grosseto\n🏟️ Antonio Molinari Avic
- or Stadium
+UID:campobasso-2026-27-g24@calendario-rossoblu
+LAST-MODIFIED:20260904T064941Z
+SEQUENCE:3
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Campobasso FC – Grosseto\n🏟️ Antonio Molinari Avicor Stadium
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g24@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 24ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Serie C Girone B 2026/27 – 24ª giornata. Data di calendario\; orario da definire e soggetto ad anticipi/posticipi.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Pineto – Campobasso FC\n🏟️ Mimmo Pavone-Alessandro
-  Mariani
+UID:campobasso-2026-27-g25@calendario-rossoblu
+LAST-MODIFIED:20260904T064941Z
+SEQUENCE:3
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Pineto – Campobasso FC\n🏟️ Mimmo Pavone-Alessandro Mariani
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g25@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 25ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
 LOCATION:Stadio Mimmo Pavone-Alessandro Mariani\, Pineto
+DESCRIPTION:Serie C Girone B 2026/27 – 25ª giornata. Data di calendario\; orario da definire e soggetto ad anticipi/posticipi.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Sambenedettese\n🏟️ Antonio Molinar
- i Avicor Stadium
+UID:campobasso-2026-27-g26@calendario-rossoblu
+LAST-MODIFIED:20260904T064941Z
+SEQUENCE:3
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Campobasso FC – Sambenedettese\n🏟️ Antonio Molinari Avicor Stadium
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g26@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 26ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Serie C Girone B 2026/27 – 26ª giornata. Data di calendario\; orario da definire e soggetto ad anticipi/posticipi.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:campobasso-2026-27-g27@calendario-rossoblu
+LAST-MODIFIED:20260904T064941Z
+SEQUENCE:3
+DTSTAMP:20260827T120951Z
 SUMMARY:🔴🔵 Torres – Campobasso FC\n🏟️ Vanni Sanna
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g27@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 27ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
 LOCATION:Stadio Vanni Sanna\, Sassari
+DESCRIPTION:Serie C Girone B 2026/27 – 27ª giornata. Data di calendario\; orario da definire e soggetto ad anticipi/posticipi.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Ravenna\n🏟️ Antonio Molinari Avico
- r Stadium
+UID:campobasso-2026-27-g28@calendario-rossoblu
+LAST-MODIFIED:20260904T064941Z
+SEQUENCE:3
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Campobasso FC – Ravenna\n🏟️ Antonio Molinari Avicor Stadium
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g28@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 28ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Serie C Girone B 2026/27 – 28ª giornata. Data di calendario\; orario da definire e soggetto ad anticipi/posticipi.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:campobasso-2026-27-g29@calendario-rossoblu
+LAST-MODIFIED:20260904T064941Z
+SEQUENCE:3
+DTSTAMP:20260827T120951Z
 SUMMARY:🔴🔵 Perugia – Campobasso FC\n🏟️ Renato Curi
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g29@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 29ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
 LOCATION:Stadio Renato Curi\, Perugia
+DESCRIPTION:Serie C Girone B 2026/27 – 29ª giornata. Data di calendario\; orario da definire e soggetto ad anticipi/posticipi.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Atalanta U23\n🏟️ Antonio Molinari 
- Avicor Stadium
+UID:campobasso-2026-27-g30@calendario-rossoblu
+LAST-MODIFIED:20260904T064941Z
+SEQUENCE:3
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Campobasso FC – Atalanta U23\n🏟️ Antonio Molinari Avicor Stadium
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g30@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 30ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Serie C Girone B 2026/27 – 30ª giornata. Data di calendario\; orario da definire e soggetto ad anticipi/posticipi.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:campobasso-2026-27-g31@calendario-rossoblu
+LAST-MODIFIED:20260904T064941Z
+SEQUENCE:3
+DTSTAMP:20260827T120951Z
 SUMMARY:🔴🔵 Forlì – Campobasso FC\n🏟️ Tullo Morgagni
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g31@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 31ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
 LOCATION:Stadio Tullo Morgagni\, Forlì
+DESCRIPTION:Serie C Girone B 2026/27 – 31ª giornata. Data di calendario\; orario da definire e soggetto ad anticipi/posticipi.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:campobasso-2026-27-g32@calendario-rossoblu
+LAST-MODIFIED:20260904T064941Z
+SEQUENCE:3
+DTSTAMP:20260827T120951Z
 SUMMARY:🔴🔵 Livorno – Campobasso FC\n🏟️ Armando Picchi
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g32@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 32ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
 LOCATION:Stadio Armando Picchi\, Livorno
+DESCRIPTION:Serie C Girone B 2026/27 – 32ª giornata. Data di calendario\; orario da definire e soggetto ad anticipi/posticipi.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Latina\n🏟️ Antonio Molinari Avicor
-  Stadium
+UID:campobasso-2026-27-g33@calendario-rossoblu
+LAST-MODIFIED:20260904T064941Z
+SEQUENCE:3
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Campobasso FC – Latina\n🏟️ Antonio Molinari Avicor Stadium
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g33@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 33ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Serie C Girone B 2026/27 – 33ª giornata. Data di calendario\; orario da definire e soggetto ad anticipi/posticipi.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:campobasso-2026-27-g34@calendario-rossoblu
+LAST-MODIFIED:20260904T064941Z
+SEQUENCE:3
+DTSTAMP:20260827T120951Z
 SUMMARY:🔴🔵 Vis Pesaro – Campobasso FC\n🏟️ Tonino Benelli
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g34@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 34ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
 LOCATION:Stadio Tonino Benelli\, Pesaro
+DESCRIPTION:Serie C Girone B 2026/27 – 34ª giornata. Data di calendario\; orario da definire e soggetto ad anticipi/posticipi.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Guidonia Montecelio\n🏟️ Antonio Mo
- linari Avicor Stadium
+UID:campobasso-2026-27-g35@calendario-rossoblu
+LAST-MODIFIED:20260904T064941Z
+SEQUENCE:3
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Campobasso FC – Guidonia Montecelio\n🏟️ Antonio Molinari Avicor Stadium
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g35@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 35ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Serie C Girone B 2026/27 – 35ª giornata. Data di calendario\; orario da definire e soggetto ad anticipi/posticipi.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Pescara – Campobasso FC\n🏟️ Adriatico-Giovanni Cor
- nacchia
+UID:campobasso-2026-27-g36@calendario-rossoblu
+LAST-MODIFIED:20260904T064941Z
+SEQUENCE:3
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Pescara – Campobasso FC\n🏟️ Adriatico-Giovanni Cornacchia
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g36@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 36ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
 LOCATION:Stadio Adriatico-Giovanni Cornacchia\, Pescara
+DESCRIPTION:Serie C Girone B 2026/27 – 36ª giornata. Data di calendario\; orario da definire e soggetto ad anticipi/posticipi.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Ostiamare\n🏟️ Antonio Molinari Avi
- cor Stadium
+UID:campobasso-2026-27-g37@calendario-rossoblu
+LAST-MODIFIED:20260904T064941Z
+SEQUENCE:3
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Campobasso FC – Ostiamare\n🏟️ Antonio Molinari Avicor Stadium
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g37@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 37ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Serie C Girone B 2026/27 – 37ª giornata. Data di calendario\; orario da definire e soggetto ad anticipi/posticipi.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Reggiana – Campobasso FC\n🏟️ Mapei Stadium – Cit
- tà del Tricolore
+UID:campobasso-2026-27-g38@calendario-rossoblu
+LAST-MODIFIED:20260904T064941Z
+SEQUENCE:3
+DTSTAMP:20260827T120951Z
+SUMMARY:🔴🔵 Reggiana – Campobasso FC\n🏟️ Mapei Stadium – Città del Tricolore
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
-DTSTAMP:20260827T120951Z
-UID:campobasso-2026-27-g38@calendario-rossoblu
-SEQUENCE:3
-DESCRIPTION:Serie C Girone B 2026/27 – 38ª giornata. Data di calendario
- \; orario da definire e soggetto ad anticipi/posticipi.
-LAST-MODIFIED:20260904T064941Z
 LOCATION:Mapei Stadium – Città del Tricolore\, Reggio Emilia
+DESCRIPTION:Serie C Girone B 2026/27 – 38ª giornata. Data di calendario\; orario da definire e soggetto ad anticipi/posticipi.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:campobasso-2026-27-coppa-r2-scafatese@calendario-rossoblu
+LAST-MODIFIED:20260904T061647Z
+SEQUENCE:4
+DTSTAMP:20260827T120000Z
 SUMMARY:🔴🔵 Campobasso FC – Scafatese 5-3 d.c.r.
 DTSTART;TZID=Europe/Rome:20260901T200000
 DTEND;TZID=Europe/Rome:20260901T220000
-DTSTAMP:20260827T120000Z
-UID:campobasso-2026-27-coppa-r2-scafatese@calendario-rossoblu
-SEQUENCE:4
-DESCRIPTION:Coppa Italia Serie C Regionale Trenitalia 2026/27 – Secondo 
- Turno Eliminatorio. Gara unica.
-LAST-MODIFIED:20260904T061647Z
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Coppa Italia Serie C Regionale Trenitalia 2026/27 – Secondo Turno Eliminatorio. Gara unica.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Latina\n🏟️ Antonio Molinari Avicor
-  Stadium
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-DTSTAMP:20260913T092414Z
 UID:campobasso-2026-27-coppa-ottavi-latina@calendario-rossoblu
-SEQUENCE:0
-DESCRIPTION:Coppa Italia Serie C Regionale Trenitalia 2026/27 – Ottavi d
- i finale. Data di calendario\; orario da definire e soggetto a variazioni.
-LAST-MODIFIED:20260913T092414Z
+LAST-MODIFIED:20260918T182018Z
+SEQUENCE:1
+DTSTAMP:20260913T092414Z
+SUMMARY:🔴🔵 Campobasso FC – Latina
+DTSTART;TZID=Europe/Rome:20261028T203000
+DTEND;TZID=Europe/Rome:20261028T223000
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+DESCRIPTION:Coppa Italia Serie C Regionale Trenitalia 2026/27 – Ottavi di finale. Data e orario ufficializzati.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
