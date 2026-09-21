@@ -50,15 +50,8 @@
     "campobasso-2026-27-g3@calendario-rossoblu": "2-4",
     "campobasso-2026-27-g4@calendario-rossoblu": "0-1",
     "campobasso-2026-27-g5@calendario-rossoblu": "2-2",
-    "campobasso-2026-27-coppa-r2-scafatese@calendario-rossoblu": "5-3 d.c.r."
+    "campobasso-2026-27-coppa-r2-scafatese@calendario-rossoblu": "5-3 d.c.r.",
+    "campobasso-2026-27-g6@calendario-rossoblu": "2-2"
   },
-  "pending_results": {
-    "campobasso-2026-27-g6@calendario-rossoblu": {
-      "score": [
-        2,
-        2
-      ],
-      "first_seen": "2026-09-21T00:35:42+00:00"
-    }
-  }
+  "pending_results": {}
 }
