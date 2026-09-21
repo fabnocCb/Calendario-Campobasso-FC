@@ -88,14 +88,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:campobasso-2026-27-g6@calendario-rossoblu
-LAST-MODIFIED:20260904T061647Z
-SEQUENCE:1
+LAST-MODIFIED:20260920T214638Z
+SEQUENCE:2
 DTSTAMP:20260827T120951Z
-SUMMARY:🔴🔵 Campobasso FC – Pineto
+SUMMARY:🔴🔵 Campobasso FC – Pineto 2-2
 DTSTART;TZID=Europe/Rome:20260920T173000
 DTEND;TZID=Europe/Rome:20260920T193000
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
-DESCRIPTION:Serie C Girone B 2026/27 – 6ª giornata. Data e orario ufficializzati.
+DESCRIPTION:Serie C Girone B 2026/27 – 6ª giornata. Data e orario ufficializzati. Risultato finale: 2-2.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
