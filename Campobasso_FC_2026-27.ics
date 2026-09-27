@@ -109,18 +109,19 @@ TRANSP:TRANSPARENT
 X-SOURCE-URL:https://www.seriec.com/calendario
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Sambenedettese – Campobasso FC
+SUMMARY:🔴🔵 Sambenedettese – Campobasso FC 1-2
 DTSTART;TZID=Europe/Rome:20260926T203000
 DTEND;TZID=Europe/Rome:20260926T223000
-DTSTAMP:20260827T120951Z
+DTSTAMP:20260927T120614Z
 UID:campobasso-2026-27-g7@calendario-rossoblu
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Serie C Girone B 2026/27 – 7ª giornata. Data e orario uffic
- ializzati.
-LAST-MODIFIED:20260904T061647Z
+ ializzati. Risultato: 1-2. Fonte: https://www.seriec.com/calendario
+LAST-MODIFIED:20260927T120614Z
 LOCATION:Stadio Riviera delle Palme\, San Benedetto del Tronto
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+X-SOURCE-URL:https://www.seriec.com/calendario
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🔴🔵 Campobasso FC – Torres
