@@ -139,18 +139,19 @@ TRANSP:TRANSPARENT
 X-SOURCE-URL:https://www.seriec.com/calendario
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Ravenna – Campobasso FC
+SUMMARY:🔴🔵 Ravenna – Campobasso FC 3-1
 DTSTART;TZID=Europe/Rome:20261011T143000
 DTEND;TZID=Europe/Rome:20261011T163000
-DTSTAMP:20260827T120951Z
+DTSTAMP:20261012T060221Z
 UID:campobasso-2026-27-g9@calendario-rossoblu
-SEQUENCE:4
+SEQUENCE:5
 DESCRIPTION:Serie C Girone B 2026/27 – 9ª giornata. Data e orario uffic
- ializzati.
-LAST-MODIFIED:20260918T182018Z
+ ializzati. Risultato: 3-1. Fonte: https://www.seriec.com/calendario
+LAST-MODIFIED:20261012T060221Z
 LOCATION:Stadio Bruno Benelli\, Ravenna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+X-SOURCE-URL:https://www.seriec.com/calendario
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🔴🔵 Campobasso FC – Perugia
