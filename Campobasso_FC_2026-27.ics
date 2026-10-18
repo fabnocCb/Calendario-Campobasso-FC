@@ -154,18 +154,19 @@ TRANSP:TRANSPARENT
 X-SOURCE-URL:https://www.seriec.com/calendario
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Perugia
+SUMMARY:🔴🔵 Campobasso FC – Perugia 1-5
 DTSTART;TZID=Europe/Rome:20261018T123000
 DTEND;TZID=Europe/Rome:20261018T143000
-DTSTAMP:20260827T120951Z
+DTSTAMP:20261018T204715Z
 UID:campobasso-2026-27-g10@calendario-rossoblu
-SEQUENCE:4
+SEQUENCE:5
 DESCRIPTION:Serie C Girone B 2026/27 – 10ª giornata. Data e orario uffi
- cializzati.
-LAST-MODIFIED:20260918T182018Z
+ cializzati. Risultato: 1-5. Fonte: https://www.seriec.com/calendario
+LAST-MODIFIED:20261018T204715Z
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+X-SOURCE-URL:https://www.seriec.com/calendario
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🔴🔵 Atalanta U23 – Campobasso FC

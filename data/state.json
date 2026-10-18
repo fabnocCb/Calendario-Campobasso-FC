@@ -54,15 +54,8 @@
     "campobasso-2026-27-g6@calendario-rossoblu": "2-2",
     "campobasso-2026-27-g7@calendario-rossoblu": "1-2",
     "campobasso-2026-27-g8@calendario-rossoblu": "1-1",
-    "campobasso-2026-27-g9@calendario-rossoblu": "3-1"
+    "campobasso-2026-27-g9@calendario-rossoblu": "3-1",
+    "campobasso-2026-27-g10@calendario-rossoblu": "1-5"
   },
-  "pending_results": {
-    "campobasso-2026-27-g10@calendario-rossoblu": {
-      "score": [
-        1,
-        5
-      ],
-      "first_seen": "2026-10-18T15:54:21+00:00"
-    }
-  }
+  "pending_results": {}
 }
