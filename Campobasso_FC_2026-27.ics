@@ -169,18 +169,19 @@ TRANSP:TRANSPARENT
 X-SOURCE-URL:https://www.seriec.com/calendario
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Atalanta U23 – Campobasso FC
+SUMMARY:🔴🔵 Atalanta U23 – Campobasso FC 1-2
 DTSTART;TZID=Europe/Rome:20261024T143000
 DTEND;TZID=Europe/Rome:20261024T163000
-DTSTAMP:20260827T120951Z
+DTSTAMP:20261025T044554Z
 UID:campobasso-2026-27-g11@calendario-rossoblu
-SEQUENCE:4
+SEQUENCE:5
 DESCRIPTION:Serie C Girone B 2026/27 – 11ª giornata. Data e orario uffi
- cializzati.
-LAST-MODIFIED:20260918T182018Z
+ cializzati. Risultato: 1-2. Fonte: https://www.seriec.com/calendario
+LAST-MODIFIED:20261025T044554Z
 LOCATION:Stadio Comunale\, Caravaggio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+X-SOURCE-URL:https://www.seriec.com/calendario
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🔴🔵 Campobasso FC – Forlì
