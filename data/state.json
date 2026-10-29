@@ -41,7 +41,8 @@
     "g37": "campobasso-2026-27-g37@calendario-rossoblu",
     "g38": "campobasso-2026-27-g38@calendario-rossoblu",
     "cup2": "campobasso-2026-27-coppa-r2-scafatese@calendario-rossoblu",
-    "cup3": "campobasso-2026-27-coppa-ottavi-latina@calendario-rossoblu"
+    "cup3": "campobasso-2026-27-coppa-ottavi-latina@calendario-rossoblu",
+    "cup4": "campobasso-2026-27-coppa-quarti-spezia@calendario-rossoblu"
   },
   "locked_results": {
     "campobasso-2026-27-coppa-cavese@calendario-rossoblu": "2-0",
@@ -56,7 +57,8 @@
     "campobasso-2026-27-g8@calendario-rossoblu": "1-1",
     "campobasso-2026-27-g9@calendario-rossoblu": "3-1",
     "campobasso-2026-27-g10@calendario-rossoblu": "1-5",
-    "campobasso-2026-27-g11@calendario-rossoblu": "1-2"
+    "campobasso-2026-27-g11@calendario-rossoblu": "1-2",
+    "campobasso-2026-27-coppa-ottavi-latina@calendario-rossoblu": "2-0"
   },
   "pending_results": {}
 }
