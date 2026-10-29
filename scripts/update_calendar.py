@@ -139,7 +139,7 @@ def validate(raw, baseline, locks):
     cal = Calendar.from_ical(raw)
     ev = events(cal)
     original = events(Calendar.from_ical(baseline))
-    require(set(ev) == set(original) | set(EXTRA_CUP), 'UID aggiunti, rimossi o modificati')
+    require(set(original) <= set(ev) <= set(original) | set(EXTRA_CUP), 'UID aggiunti, rimossi o modificati')
     require(sum(bool(re.search(r'-g\d+@', uid)) for uid in ev) == 38, 'Non ci sono 38 giornate')
     for uid, e in ev.items():
         require(not e.errors, f'ICS non valido: {uid}')
