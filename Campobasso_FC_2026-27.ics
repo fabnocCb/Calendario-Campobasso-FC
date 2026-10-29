@@ -588,17 +588,36 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Latina
+SUMMARY:🔴🔵 Campobasso FC – Latina 2-0
 DTSTART;TZID=Europe/Rome:20261028T203000
 DTEND;TZID=Europe/Rome:20261028T223000
-DTSTAMP:20260913T092414Z
+DTSTAMP:20261029T100801Z
 UID:campobasso-2026-27-coppa-ottavi-latina@calendario-rossoblu
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Coppa Italia Serie C Regionale Trenitalia 2026/27 – Ottavi d
- i finale. Data e orario ufficializzati.
-LAST-MODIFIED:20260918T182018Z
+ i finale. Risultato: Campobasso FC 2-0 Latina. Fonte: https://www.ser
+ iec.com/coppa-italia/calendario
+LAST-MODIFIED:20261029T100801Z
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+X-SOURCE-URL:https://www.seriec.com/coppa-italia/calendario
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔴🔵 Campobasso FC – Spezia\n🏟️ Antonio Molinari Avicor
+  Stadium
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+DTSTAMP:20261029T100801Z
+UID:campobasso-2026-27-coppa-quarti-spezia@calendario-rossoblu
+SEQUENCE:0
+DESCRIPTION:Coppa Italia Serie C Regionale Trenitalia 2026/27 – Quarti 
+ di finale. Data ufficiale: 8 dicembre 2026. Orario da definire. Fon
+ te: https://www.seriec.com/coppa-italia/calendario
+LAST-MODIFIED:20261029T100801Z
+LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SOURCE-URL:https://www.seriec.com/coppa-italia/calendario
 END:VEVENT
 END:VCALENDAR
