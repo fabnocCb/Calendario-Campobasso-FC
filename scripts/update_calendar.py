@@ -27,6 +27,7 @@ MONTHS = dict(zip('gen feb mar apr mag giu lug ago set ott nov dic'.split(), ran
 # The official site populates unconfirmed rounds with these default times.
 PLACEHOLDERS = {'00:00', '01:00', '15:00', '20:45'}
 LOG = logging.getLogger('calendar')
+EXTRA_CUP = {'campobasso-2026-27-coppa-quarti-spezia@calendario-rossoblu': ('campobasso', 'spezia')}
 
 
 def require(condition, message):
@@ -138,7 +139,7 @@ def validate(raw, baseline, locks):
     cal = Calendar.from_ical(raw)
     ev = events(cal)
     original = events(Calendar.from_ical(baseline))
-    require(set(ev) == set(original), 'UID aggiunti, rimossi o modificati')
+    require(set(ev) == set(original) | set(EXTRA_CUP), 'UID aggiunti, rimossi o modificati')
     require(sum(bool(re.search(r'-g\d+@', uid)) for uid in ev) == 38, 'Non ci sono 38 giornate')
     for uid, e in ev.items():
         require(not e.errors, f'ICS non valido: {uid}')
@@ -150,7 +151,7 @@ def validate(raw, baseline, locks):
             require(start.tzinfo is not None, f'Fuso orario assente: {uid}')
         d = start.date() if isinstance(start, datetime) else start
         require(date(2026, 8, 1) <= d <= date(2027, 6, 30), f'Data fuori stagione: {uid}')
-        require(pair(e) == pair(original[uid]), f'Squadre cambiate: {uid}')
+        require(pair(e) == (pair(original[uid]) if uid in original else EXTRA_CUP[uid]), f'Squadre cambiate: {uid}')
         if uid in locks:
             require(result_in(e) == locks[uid], f'Risultato consolidato alterato: {uid}')
     return cal
@@ -274,7 +275,7 @@ def main():
     raw, state = path.read_bytes(), json.loads(state_path.read_text())
     cal = validate(raw, baseline, state['locked_results'])
     if args.validate_only:
-        LOG.info('ICS valido: 38 giornate, 3 gare Coppa, UID e risultati preservati')
+        LOG.info('ICS valido: 38 giornate, 4 gare Coppa, UID e risultati preservati')
         return
     now = datetime.now(timezone.utc).replace(microsecond=0)
     records = parse_league(fetch(LEAGUE, ROOT/'artifacts')) + parse_cup(fetch(CUP, ROOT/'artifacts'))
