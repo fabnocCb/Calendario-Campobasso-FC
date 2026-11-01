@@ -60,5 +60,13 @@
     "campobasso-2026-27-g11@calendario-rossoblu": "1-2",
     "campobasso-2026-27-coppa-ottavi-latina@calendario-rossoblu": "2-0"
   },
-  "pending_results": {}
+  "pending_results": {
+    "campobasso-2026-27-g12@calendario-rossoblu": {
+      "score": [
+        2,
+        0
+      ],
+      "first_seen": "2026-11-01T22:04:45+00:00"
+    }
+  }
 }
