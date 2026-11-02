@@ -184,18 +184,19 @@ TRANSP:TRANSPARENT
 X-SOURCE-URL:https://www.seriec.com/calendario
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Forlì
+SUMMARY:🔴🔵 Campobasso FC – Forlì 2-0
 DTSTART;TZID=Europe/Rome:20261101T173000
 DTEND;TZID=Europe/Rome:20261101T193000
-DTSTAMP:20260827T120951Z
+DTSTAMP:20261102T061110Z
 UID:campobasso-2026-27-g12@calendario-rossoblu
-SEQUENCE:4
+SEQUENCE:5
 DESCRIPTION:Serie C Girone B 2026/27 – 12ª giornata. Data e orario uffi
- cializzati.
-LAST-MODIFIED:20260918T182018Z
+ cializzati. Risultato: 2-0. Fonte: https://www.seriec.com/calendario
+LAST-MODIFIED:20261102T061110Z
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+X-SOURCE-URL:https://www.seriec.com/calendario
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🔴🔵 Campobasso FC – Livorno
@@ -595,8 +596,8 @@ DTSTAMP:20261029T100801Z
 UID:campobasso-2026-27-coppa-ottavi-latina@calendario-rossoblu
 SEQUENCE:2
 DESCRIPTION:Coppa Italia Serie C Regionale Trenitalia 2026/27 – Ottavi d
- i finale. Risultato: Campobasso FC 2-0 Latina. Fonte: https://www.ser
- iec.com/coppa-italia/calendario
+ i finale. Risultato: Campobasso FC 2-0 Latina. Fonte: https://www.seriec.c
+ om/coppa-italia/calendario
 LAST-MODIFIED:20261029T100801Z
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
 STATUS:CONFIRMED
@@ -611,9 +612,9 @@ DTEND;VALUE=DATE:20261209
 DTSTAMP:20261029T100801Z
 UID:campobasso-2026-27-coppa-quarti-spezia@calendario-rossoblu
 SEQUENCE:0
-DESCRIPTION:Coppa Italia Serie C Regionale Trenitalia 2026/27 – Quarti 
- di finale. Data ufficiale: 8 dicembre 2026. Orario da definire. Fon
- te: https://www.seriec.com/coppa-italia/calendario
+DESCRIPTION:Coppa Italia Serie C Regionale Trenitalia 2026/27 – Quarti d
+ i finale. Data ufficiale: 8 dicembre 2026. Orario da definire. Fonte: http
+ s://www.seriec.com/coppa-italia/calendario
 LAST-MODIFIED:20261029T100801Z
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
 STATUS:CONFIRMED
