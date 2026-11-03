@@ -607,15 +607,15 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🔴🔵 Campobasso FC – Spezia\n🏟️ Antonio Molinari Avicor
   Stadium
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261209
-DTSTAMP:20261029T100801Z
+DTSTART;TZID=Europe/Rome:20261208T160000
+DTEND;TZID=Europe/Rome:20261208T180000
+DTSTAMP:20261103T232539Z
 UID:campobasso-2026-27-coppa-quarti-spezia@calendario-rossoblu
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Coppa Italia Serie C Regionale Trenitalia 2026/27 – Quarti d
  i finale. Data ufficiale: 8 dicembre 2026. Orario da definire. Fonte: http
  s://www.seriec.com/coppa-italia/calendario
-LAST-MODIFIED:20261029T100801Z
+LAST-MODIFIED:20261103T232539Z
 LOCATION:Antonio Molinari Avicor Stadium\, Campobasso
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
