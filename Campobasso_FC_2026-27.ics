@@ -199,18 +199,19 @@ TRANSP:TRANSPARENT
 X-SOURCE-URL:https://www.seriec.com/calendario
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Livorno
+SUMMARY:🔴🔵 Campobasso FC – Livorno 1-1
 DTSTART;TZID=Europe/Rome:20261108T143000
 DTEND;TZID=Europe/Rome:20261108T163000
-DTSTAMP:20260827T120951Z
+DTSTAMP:20261108152635Z
 UID:campobasso-2026-27-g13@calendario-rossoblu
-SEQUENCE:5
-DESCRIPTION:Serie C Girone B 2026/27 – 13ª giornata. Data e orario uffi
- cializzati.
-LAST-MODIFIED:20261106T112215Z
+SEQUENCE:6
+DESCRIPTION:Serie C Girone B 2026/27 – 13ª giornata. Data e orario uffic
+ ializzati. Risultato: 1-1. Fonte: https://www.seriec.com/calendario
+LAST-MODIFIED:20261108152635Z
 LOCATION:Axum Molinari Stadium\, Campobasso
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+X-SOURCE-URL:https://www.seriec.com/calendario
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🔴🔵 Latina – Campobasso FC
