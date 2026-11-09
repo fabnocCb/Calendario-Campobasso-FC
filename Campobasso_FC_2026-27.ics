@@ -202,12 +202,13 @@ BEGIN:VEVENT
 SUMMARY:🔴🔵 Campobasso FC – Livorno 1-1
 DTSTART;TZID=Europe/Rome:20261108T143000
 DTEND;TZID=Europe/Rome:20261108T163000
-DTSTAMP:20261108T153124Z
+DTSTAMP:20261109T063802Z
 UID:campobasso-2026-27-g13@calendario-rossoblu
-SEQUENCE:7
-DESCRIPTION:Serie C Girone B 2026/27 – 13ª giornata. Data e orario uffic
- ializzati. Risultato: 1-1. Fonte: https://www.seriec.com/calendario
-LAST-MODIFIED:20261108T153124Z
+SEQUENCE:8
+DESCRIPTION:Serie C Girone B 2026/27 – 13ª giornata. Data e orario uffi
+ cializzati. Risultato: 1-1. Fonte: https://www.seriec.com/calendario Risul
+ tato: 1-1. Fonte: https://www.seriec.com/calendario
+LAST-MODIFIED:20261109T063802Z
 LOCATION:Axum Molinari Stadium\, Campobasso
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -383,8 +384,8 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Sambenedettese\n🏟️ Axum Molinari St
- adium
+SUMMARY:🔴🔵 Campobasso FC – Sambenedettese\n🏟️ Axum Molinari S
+ tadium
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 DTSTAMP:20260827T120951Z
@@ -440,8 +441,8 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Atalanta U23\n🏟️ Axum Molinari Stad
- ium
+SUMMARY:🔴🔵 Campobasso FC – Atalanta U23\n🏟️ Axum Molinari Sta
+ dium
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 DTSTAMP:20260827T120951Z
@@ -511,8 +512,8 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Guidonia Montecelio\n🏟️ Axum Molina
- ri Stadium
+SUMMARY:🔴🔵 Campobasso FC – Guidonia Montecelio\n🏟️ Axum Molin
+ ari Stadium
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 DTSTAMP:20260827T120951Z
@@ -541,7 +542,8 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Ostiamare\n🏟️ Axum Molinari Stadium
+SUMMARY:🔴🔵 Campobasso FC – Ostiamare\n🏟️ Axum Molinari Stadiu
+ m
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 DTSTAMP:20260827T120951Z
@@ -606,9 +608,9 @@ DTEND;TZID=Europe/Rome:20261208T180000
 DTSTAMP:20261103T232539Z
 UID:campobasso-2026-27-coppa-quarti-spezia@calendario-rossoblu
 SEQUENCE:2
-DESCRIPTION:Coppa Italia Serie C Regionale Trenitalia 2026/27 – Quarti di
-  finale. Data ufficiale: 8 dicembre 2026. Orario ufficiale: 16:00. Fonte: 
- https://www.seriec.com/coppa-italia/calendario
+DESCRIPTION:Coppa Italia Serie C Regionale Trenitalia 2026/27 – Quarti d
+ i finale. Data ufficiale: 8 dicembre 2026. Orario ufficiale: 16:00. Fonte:
+  https://www.seriec.com/coppa-italia/calendario
 LAST-MODIFIED:20261106T112215Z
 LOCATION:Axum Molinari Stadium\, Campobasso
 STATUS:CONFIRMED
