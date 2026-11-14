@@ -215,18 +215,19 @@ TRANSP:TRANSPARENT
 X-SOURCE-URL:https://www.seriec.com/calendario
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Latina – Campobasso FC
+SUMMARY:🔴🔵 Latina – Campobasso FC 4-0
 DTSTART;TZID=Europe/Rome:20261113T203000
 DTEND;TZID=Europe/Rome:20261113T223000
-DTSTAMP:20260827T120951Z
+DTSTAMP:20261114T180733Z
 UID:campobasso-2026-27-g14@calendario-rossoblu
-SEQUENCE:4
+SEQUENCE:5
 DESCRIPTION:Serie C Girone B 2026/27 – 14ª giornata. Data e orario uffi
- cializzati.
-LAST-MODIFIED:20260918T182018Z
+ cializzati. Risultato: 4-0. Fonte: https://www.seriec.com/calendario
+LAST-MODIFIED:20261114T180733Z
 LOCATION:Stadio Domenico Francioni\, Latina
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+X-SOURCE-URL:https://www.seriec.com/calendario
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🔴🔵 Campobasso FC – Vis Pesaro
