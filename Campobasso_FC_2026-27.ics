@@ -230,18 +230,19 @@ TRANSP:TRANSPARENT
 X-SOURCE-URL:https://www.seriec.com/calendario
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴🔵 Campobasso FC – Vis Pesaro
+SUMMARY:🔴🔵 Campobasso FC – Vis Pesaro 3-3
 DTSTART;TZID=Europe/Rome:20261121T173000
 DTEND;TZID=Europe/Rome:20261121T193000
-DTSTAMP:20260827T120951Z
+DTSTAMP:20261122T194341Z
 UID:campobasso-2026-27-g15@calendario-rossoblu
-SEQUENCE:5
+SEQUENCE:6
 DESCRIPTION:Serie C Girone B 2026/27 – 15ª giornata. Data e orario uffi
- cializzati.
-LAST-MODIFIED:20261106T112215Z
+ cializzati. Risultato: 3-3. Fonte: https://www.seriec.com/calendario
+LAST-MODIFIED:20261122T194341Z
 LOCATION:Axum Molinari Stadium\, Campobasso
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+X-SOURCE-URL:https://www.seriec.com/calendario
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🔴🔵 Guidonia Montecelio – Campobasso FC
